@@ -1,0 +1,6 @@
+/client/node_module
+/client/.en
+
+
+//server/node_module
+/server/.env
