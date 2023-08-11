@@ -1,4 +1,4 @@
-This project was created by Team 3-D Members of team are Deepanshu Jha Dhruv Bhargav Divyank Singh Rajput
+This project was created by Team 3-D Members of team are Divyank Singh Rajput Deepanshu Jha Dhruv Bhargav 
 
 Submitted to : Mr.Lalit Purohit
                Mr Upendra Singh
